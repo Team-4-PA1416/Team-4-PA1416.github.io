@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-articles-mongodb-safeparasport-db-articles-slug-js",
+    "path": "/articles/parasport/",
+    "result": {"data":{"mongodbSafeparasportDbArticles":{"body":"<p>Hallå!</p>","slug":"parasport","title":"parasport"}},"pageContext":{"id":"987ca9b7-3087-5975-8853-da77236b9736","slug":"parasport","__params":{"slug":"parasport"}}},
+    "staticQueryHashes": []}

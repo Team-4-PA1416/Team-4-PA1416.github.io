@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-admin-view-id-js",
+    "path": "/admin/view/[...id]/",
+    "result": {"data":{"allMongodbSafeparasportDbArticles":{"nodes":[{"title":"parasport","body":"<p>Hallå!</p>"}]}},"pageContext":{}},
+    "staticQueryHashes": [],
+    "matchPath": "/admin/view/*id"}

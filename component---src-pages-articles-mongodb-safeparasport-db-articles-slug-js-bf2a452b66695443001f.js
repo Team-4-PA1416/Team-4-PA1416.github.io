@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksafe_parasport=self.webpackChunksafe_parasport||[]).push([[792],{3772:function(e,a,t){t.r(a);var r=t(7294),n=t(850);a.default=function(e){var a=e.data.mongodbSafeparasportDbArticles;return r.createElement(n.Z,{pageTitle:a.title},r.createElement("div",{className:"article_container"},r.createElement("div",{dangerouslySetInnerHTML:{__html:a.body}})))}}}]);
+//# sourceMappingURL=component---src-pages-articles-mongodb-safeparasport-db-articles-slug-js-bf2a452b66695443001f.js.map

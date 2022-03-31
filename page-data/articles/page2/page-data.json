@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-articles-mongodb-safeparasport-db-articles-slug-js",
+    "path": "/articles/page2/",
+    "result": {"data":{"mongodbSafeparasportDbArticles":{"body":"<h1>Hello again from MongoDB</h1>","slug":"page2","title":"Page 2"}},"pageContext":{"id":"df7c7696-97d8-58f9-8949-569caf694296","slug":"page2","__params":{"slug":"page2"}}},
+    "staticQueryHashes": []}

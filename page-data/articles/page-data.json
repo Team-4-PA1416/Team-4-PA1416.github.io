@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-articles-index-js",
+    "path": "/articles/",
+    "result": {"data":{"allMongodbSafeparasportDbArticles":{"nodes":[{"slug":"test","title":"test"},{"slug":"page1","title":"Page 1"},{"slug":"page2","title":"Page 2"},{"slug":"parasport","title":"parasport"},{"slug":"apa-som-heter-august","title":"apa som heter august"},{"slug":"visual-impairment","title":"Visual Impairment"},{"slug":"traumatic-injuries","title":"Traumatic Injuries"},{"slug":"infections-and-covid-19","title":"Infections and covid-19"}]}},"pageContext":{}},
+    "staticQueryHashes": []}
